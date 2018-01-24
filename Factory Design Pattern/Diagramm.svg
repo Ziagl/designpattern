@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="35cm" height="13cm" viewBox="18 19 689 260" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="138" y="40" width="148.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="138" y="40" width="148.6" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="212.3" y="59">Character</text>
+    <rect style="fill: #ffffff" x="138" y="68" width="148.6" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="138" y="68" width="148.6" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="141" y="82">+name</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="141" y="98">+damage</text>
+    <rect style="fill: #ffffff" x="138" y="104" width="148.6" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="138" y="104" width="148.6" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="141" y="118">+attack(): virtual</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="40" y="178" width="79.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="178" width="79.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="79.65" y="197">Player</text>
+    <rect style="fill: #ffffff" x="40" y="206" width="79.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="206" width="79.3" height="8"/>
+    <rect style="fill: #ffffff" x="40" y="214" width="79.3" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="214" width="79.3" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="43" y="228">+attack()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="173" y="180" width="79.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="173" y="180" width="79.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="212.65" y="199">Orc</text>
+    <rect style="fill: #ffffff" x="173" y="208" width="79.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="173" y="208" width="79.3" height="8"/>
+    <rect style="fill: #ffffff" x="173" y="216" width="79.3" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="173" y="216" width="79.3" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="176" y="230">+attack()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="300" y="178" width="79.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="300" y="178" width="79.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="339.65" y="197">Dragon</text>
+    <rect style="fill: #ffffff" x="300" y="206" width="79.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="300" y="206" width="79.3" height="8"/>
+    <rect style="fill: #ffffff" x="300" y="214" width="79.3" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="300" y="214" width="79.3" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="303" y="228">+attack()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="212.3,142.236 212.3,160 212.65,160 212.65,180 "/>
+    <polygon style="fill: #ffffff" points="220.3,142.236 212.3,126.236 204.3,142.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="220.3,142.236 212.3,126.236 204.3,142.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="212.3,142.236 212.3,159 79.65,159 79.65,178 "/>
+    <polygon style="fill: #ffffff" points="220.3,142.236 212.3,126.236 204.3,142.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="220.3,142.236 212.3,126.236 204.3,142.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="212.3,142.236 212.3,159 339.65,159 339.65,178 "/>
+    <polygon style="fill: #ffffff" points="220.3,142.236 212.3,126.236 204.3,142.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="220.3,142.236 212.3,126.236 204.3,142.236 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="541" y="122" width="165.85" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="541" y="122" width="165.85" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="623.925" y="141">CharacterFactory</text>
+    <rect style="fill: #ffffff" x="541" y="150" width="165.85" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="541" y="150" width="165.85" height="8"/>
+    <rect style="fill: #ffffff" x="541" y="158" width="165.85" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="541" y="158" width="165.85" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="544" y="172">+create()</text>
+  </g>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="20" y="21" width="379" height="257"/>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="418.242,149.5 478,149.5 478,150 539.995,150 "/>
+    <polygon style="fill: #ffffff" points="418.242,141.5 402.242,149.5 418.242,157.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="418.242,141.5 402.242,149.5 418.242,157.5 "/>
+  </g>
+</svg>
