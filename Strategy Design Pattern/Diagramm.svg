@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="28cm" height="13cm" viewBox="29 28 555 248" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="30" y="30" width="98.55" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="30" y="30" width="98.55" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="79.275" y="49">Character</text>
+    <rect style="fill: #ffffff" x="30" y="58" width="98.55" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="30" y="58" width="98.55" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="33" y="72">-name</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="33" y="88">-damage</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="33" y="104">-behavior</text>
+    <rect style="fill: #ffffff" x="30" y="110" width="98.55" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="30" y="110" width="98.55" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="33" y="124">+attack()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="265" y="53" width="172.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="265" y="53" width="172.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="351.45" y="72">IAbstractBehavior</text>
+    <rect style="fill: #ffffff" x="265" y="81" width="172.9" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="265" y="81" width="172.9" height="8"/>
+    <rect style="fill: #ffffff" x="265" y="89" width="172.9" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="265" y="89" width="172.9" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:700" x="268" y="103">+performAttack()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="147.792,80 204.775,80 204.775,81 263.995,81 "/>
+    <polygon style="fill: #ffffff" points="147.792,72 131.792,80 147.792,88 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="147.792,72 131.792,80 147.792,88 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="114" y="215" width="133.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="114" y="215" width="133.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="180.6" y="234">AxeAttack</text>
+    <rect style="fill: #ffffff" x="114" y="243" width="133.2" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="114" y="243" width="133.2" height="8"/>
+    <rect style="fill: #ffffff" x="114" y="251" width="133.2" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="114" y="251" width="133.2" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="117" y="265"> performAttack()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="284" y="219" width="133.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="284" y="219" width="133.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="350.6" y="238">SwordAttack</text>
+    <rect style="fill: #ffffff" x="284" y="247" width="133.2" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="284" y="247" width="133.2" height="8"/>
+    <rect style="fill: #ffffff" x="284" y="255" width="133.2" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="284" y="255" width="133.2" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="287" y="269"> performAttack()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="449" y="218" width="133.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="449" y="218" width="133.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="515.6" y="237">FireAttack</text>
+    <rect style="fill: #ffffff" x="449" y="246" width="133.2" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="449" y="246" width="133.2" height="8"/>
+    <rect style="fill: #ffffff" x="449" y="254" width="133.2" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="449" y="254" width="133.2" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="452" y="268"> performAttack()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="351.45,128.243 351.45,170.504 180.6,170.504 180.6,215 "/>
+    <polygon style="fill: #ffffff" points="359.45,128.243 351.45,112.243 343.45,128.243 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="359.45,128.243 351.45,112.243 343.45,128.243 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="351.45,128.243 351.45,172 350.6,172 350.6,217.993 "/>
+    <polygon style="fill: #ffffff" points="359.45,128.243 351.45,112.243 343.45,128.243 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="359.45,128.243 351.45,112.243 343.45,128.243 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="351.45,127.236 351.45,171.5 515.6,171.5 515.6,218 "/>
+    <polygon style="fill: #ffffff" points="359.45,127.236 351.45,111.236 343.45,127.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="359.45,127.236 351.45,111.236 343.45,127.236 "/>
+  </g>
+</svg>
