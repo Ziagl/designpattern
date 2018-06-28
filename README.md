@@ -9,3 +9,4 @@ For more detail please visit my blog. I explain each pattern in detail:
 * Singleton Design Pattern: https://developer-blog.net/singleton-design-pattern-in-c/
 * Adapter Design Pattern: https://developer-blog.net/adapter-design-pattern-in-c/
 * Object Pool Design Pattern: https://developer-blog.net/object-pool-design-pattern-in-c/
+* Builder Design Pattern: https://developer-blog.net/builder-design-pattern-in-c/
